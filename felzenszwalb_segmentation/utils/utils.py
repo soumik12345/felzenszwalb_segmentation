@@ -17,3 +17,9 @@ def get_random_rgb_image():
     rgb[1] = randint(0, 255)
     rgb[2] = randint(0, 255)
     return rgb
+
+
+def get_random_gray_image():
+    gray = np.zeros(1, dtype=int)
+    gray[0] = randint(0, 255)
+    return gray
