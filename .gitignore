@@ -1,5 +1,7 @@
 env/
+dist/
 .DS_Store
 .ipynb_checkpoints/
+felzenszwalb_segmentation.egg-info/
 felzenszwalb_segmentation/__pycache__/
 felzenszwalb_segmentation/utils/__pycache__/

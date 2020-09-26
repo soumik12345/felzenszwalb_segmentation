@@ -1,0 +1,3 @@
+include README
+include requirements.txt
+recursive-include felzenszwalb_segmentation/templates/*
